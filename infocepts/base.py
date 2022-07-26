@@ -1,5 +1,6 @@
 import speech_recognition as sr
 import pyttsx3
+from keyword_extraction import main
 
 # Initialize the recognizer
 r = sr.Recognizer()
@@ -40,6 +41,7 @@ while(1):
 
             print("Did you say "+MyText)
             SpeakText(MyText)
+            main(MyText)
             
     except sr.RequestError as e:
         print("Could not request results; {0}".format(e))

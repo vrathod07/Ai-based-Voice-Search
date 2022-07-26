@@ -1,0 +1,7 @@
+"Where is Know your Solution with use cases from Retail?",
+"What is the template for MLOps Proposal?",
+"Where are case studies for Data Science as a Service solution?",
+"Where is Tool comparison for Cloud platforms?",
+"Where can I find proposal submitted to centura?",
+"Give me doc for Tool comparison of Cloud platforms",
+"Where is Know Your Customer with use cases from Retail?"
